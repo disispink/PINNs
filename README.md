@@ -1,0 +1,2 @@
+In this repository i have put together basic physics informed neural networks for solving ordinary diffrential equation in ODE.ipynb notebook file taking a yeilding an approximate solution for function y = sin( pi *x) .
+Also, a model for simple pendulum is presented in python code to inforce boundry condition in solving the function of position with respect to time along with assumption in data to form neural network. 
